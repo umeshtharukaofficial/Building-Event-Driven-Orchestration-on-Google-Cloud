@@ -1,6 +1,6 @@
-# [Building Event-Driven Orchestration on Google Cloud](https://www.cloudskillsboost.google/paths/19/course_templates/465/labs/346770)
+# Building Event-Driven Orchestration on Google Cloud
 
-## Solution [here](https://youtu.be/GCpSTrTMXYM)
+## Solution
 
 ### Run the following Commands in CloudShell
 
@@ -15,12 +15,6 @@ sudo chmod +x shell.sh
 ./shell.sh
 ```
 
-### Congratulations 🎉 for completing the Lab !
+### Congratulations 🎉 
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+### You have successfully completed the lab on Building Event-Driven Orchestration on Google Cloud
